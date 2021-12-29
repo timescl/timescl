@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @timescl
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning LÖVE Framework / Java
+- 📫 How to reach me:
+   - Discord = "timescl™#9440"
+   - Steam = "https://steamcommunity.com/id/timescalehalloween/"
+   - Twitch = "twitch.tv/timescl"
